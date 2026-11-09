@@ -1,0 +1,21 @@
+{
+    "materias": [
+        {
+            "nome": "Python",
+            "notas": [
+                8.0,
+                9.0
+            ]
+        },
+        {
+            "nome": "Matemática",
+            "notas": []
+        }
+    ],
+    "tarefas": [
+        {
+            "descricao": "Estudar Python",
+            "concluida": true
+        }
+    ]
+}
